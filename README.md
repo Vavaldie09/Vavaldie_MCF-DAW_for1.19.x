@@ -1,7 +1,10 @@
 # -=Vavaldie_MCF-DAW=-
 
-マインクラフトで音楽を再生するデータパックを作る為のライブラリです。<br><br>
-
+マインクラフトで音楽を再生するデータパックを作る為のライブラリです。<br>
+<br>
+[データパックのDLはここから]https://github.com/Vavaldie09/Vavaldie_MCF-DAW_for1.19.x/releases/download/ver1.0/Vavaldie_MCF-DAW_DataPack.zip<br>
+[補助ツールのDLはここから]https://github.com/Vavaldie09/Vavaldie_MCF-DAW_for1.19.x/releases/download/ver1.0/Vavaldie_MCF-DAW_ScoreMaker.zip<br>
+<br>
 ## 【内容】<br>
 JavaEdition:vet1.19~<br>
 右上緑の『Code』から『DownloadZip』でダウンロードできます。<br>
