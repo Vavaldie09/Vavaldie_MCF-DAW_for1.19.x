@@ -131,6 +131,7 @@ execute as @a at @s run function va_music:sound/play_xylophone<br>
 ### < 結 論 は よ >
 つまり…
 <br>
+```
 execute if score M va_Time matches 1 if score O va_Time matches 1 run scoreboard players set vaMBoxTMP va_Test 11031<br>
 execute if score M va_Time matches 1 if score O va_Time matches 5 run scoreboard players set vaMBoxTMP va_Test 11032<br>
 execute if score M va_Time matches 1 if score O va_Time matches 9 run scoreboard players set vaMBoxTMP va_Test 11033<br>
@@ -138,11 +139,12 @@ execute if score M va_Time matches 1 if score O va_Time matches 13 run scoreboar
 execute if score M va_Time matches 2 if score O va_Time matches 1 run scoreboard players set vaMBoxTMP va_Test 11033<br>
 execute if score M va_Time matches 2 if score O va_Time matches 5 run scoreboard players set vaMBoxTMP va_Test 11032<br>
 execute if score M va_Time matches 2 if score O va_Time matches 9 run scoreboard players set vaMBoxTMP va_Test 11031
-<br>
+
 execute as @a at @s run function va_music:sound/play_harp<br>
 execute as @a at @s run function va_music:sound/play_xylophone<br>
 scoreboard players reset vaMBoxTMP va_Test
-<br>
+
+```
 <br>
 これで「ドレミファ　ミレド(かえるの　うたが)をハープと木琴で鳴らせ！」になります。<br>
 自分で言うのもなんだが…まぁ、分かりにくし面倒すぎる！<br>
